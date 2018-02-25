@@ -1,0 +1,10 @@
+{
+    "name": "echoserver-pro",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "socket.io": "~0.9.6",
+        "mime": "~1.2.7",
+        "net": "1.0.2"
+    }
+}
